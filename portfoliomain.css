@@ -1,0 +1,272 @@
+body{
+	background-image: linear-gradient(#CEE3F6, #618BAE, #1A374E);
+	height: 150vh;
+	margin: 0;
+	padding: 0;
+}
+html{
+	height: 1400%;
+}
+
+.section{
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50vw;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+	font-size: 4vh;
+	color: white;
+}
+
+.quote{
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50vw;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+	font-size: 3vh;
+	color: white;
+}
+
+#main{
+	/*background-color: #CEE3F6;*/
+	height: 120px;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+
+
+#directory{
+	text-align: right;
+	padding-top: 30px;
+}
+
+#directory .corner{
+	font-size: 30px;
+	margin-right: 20px;
+}
+
+
+
+#directory h1{
+	font-family: 'Homemade Apple', cursive;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	top: 10%;
+	left: 50%;
+
+
+}
+
+h1{
+	font-family: 'Barlow', sans-serif;
+
+	width: 50%;
+	margin: 0;
+	color: white; /* text color */
+	position: absolute; 
+	  /* h1 is not placed relative to anything, it is
+	  positioned regardless of anything else on the page */
+	top: 50%; /* h1 is 50% to the top of the page */
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	  /* without the above line, the leftmost part of the text
+	  is centered to top 50%, left 50%. the transform centers
+	  the middle part of the text*/
+	font-size: 30px;
+	line-height: 150%;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#a1{
+	top: 35vh;
+}
+
+#b1{
+	top: 45vh;
+	height: 8vh;
+}
+
+h2{
+	color: white;
+	font-family: 'Barlow', sans-serif;
+}
+
+h3{
+	color: white;
+	font-family: 'Barlow', sans-serif;
+}
+
+.text h2{
+	font-size: 3.5vh;
+}
+
+.text h3{
+	font-size: 2.5vh;
+}
+
+
+
+.image{
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	border: 1vh solid white;
+	left: 50vw;
+	height: 80vh;
+}
+
+.text{
+	text-align: center;
+	transform: translateX(-50%) translateY(-50%);
+	position: absolute;
+	left: 50vw;
+	height: 30vh;
+}
+
+#lookup{
+	top: 110vh; 
+}
+
+#lookuptext{
+	top: 168vh;
+}
+
+#gn{
+	top: 245vh;
+}
+
+#gntext{
+	top: 303vh;
+}
+
+#btw{
+	top: 375vh;
+}
+
+#btwtext{
+	top: 433vh;
+}
+
+#a2{
+	top: 475vh;
+}
+
+#b2{
+	top: 485vh;
+	height: 8vh;
+}
+
+#cat{
+	top: 550vh;
+}
+
+#cattext{
+	top: 608vh;
+}
+
+#ice{
+	top: 672vh;
+}
+
+#icetext{
+	top: 730vh;
+}
+
+#mao{
+	top: 795vh;
+}
+
+#maotext{
+	top: 853vh;
+}
+
+#a3{
+	top: 890vh;
+}
+
+#b3{
+	top: 900vh;
+	height: 8vh;
+}
+
+#mel{
+	top: 968vh;
+}
+
+#meltext{
+	top: 1026vh;
+}
+
+#traf{
+	top: 1095vh;
+}
+
+#traftext{
+	top: 1153vh;
+}
+
+#dtl1{
+	top: 1223vh;
+	border-bottom: 0;
+}
+
+#dtl2{
+	top: 1303vh;
+	border-top: 1vh;
+	border-color: white;
+}
+
+#dtltext{
+	top: 1361vh;
+}
+
+h4{
+	font-family: 'Maven Pro', sans-serif;
+	size: 2vh;
+}
+
+h5{
+	font-family: 'Maven Pro', sans-serif;
+	size: 1vh;
+}
+
+#main a{
+	color: white;
+	text-decoration: none;
+}
+
+#main a:hover{
+	color: #BDBDBD;
+	text-decoration: none;
+}
+
+#dropdownMenuLink{
+	top: 0;
+	margin-top: 0;
+	padding-top: 0;
+	position: fixed;
+}
+.dropdown-item{
+	background-color: white;
+}
+
+/*#intro{
+	position: absolute;
+	width: 90vw;
+	transform: translateX(-50%) translateY(-50%);
+	top: 25vh;
+	height: 10vh;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+	font-size: 3vh;
+	left: 50vw;
+	color: white;
+} */
