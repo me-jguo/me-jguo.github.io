@@ -1,6 +1,6 @@
 # Personal Website
 
-This is repository for my personal website (me-jguo.github.io).
+This is repository for my personal website (me-jguo.github.io). This website contains a front page, an introductions page, and a gallery page for my digital art.
 
 
 
